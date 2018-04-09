@@ -1,0 +1,4 @@
+.DS_Store
+.ipynb_checkpoints/
+data/train_preprocessed.csv
+data/test_preprocessed.csv
